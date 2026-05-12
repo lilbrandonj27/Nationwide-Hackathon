@@ -1,1 +1,1 @@
-smartlot.netlify.app
+[SmartLot](https://smartlot.netlify.app)
