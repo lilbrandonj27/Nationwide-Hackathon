@@ -1,0 +1,1 @@
+smartlot.netlify.app
